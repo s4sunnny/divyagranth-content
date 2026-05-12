@@ -1,0 +1,171 @@
+{
+  "id": "isha-upanishad",
+  "title": "Isha Upanishad",
+  "sanskritTitle": "ईशोपनिषद्",
+  "deityId": "general",
+  "category": "upanishad",
+  "description": "One of the shortest and most condensed of the principal Upanishads. 18 verses on the all-pervading nature of the Self, the relationship between knowledge and action, and the nature of liberation.",
+  "language": ["sa", "en"],
+  "chapterCount": 1,
+  "verseCount": 18,
+  "isLocal": false,
+  "isPublicDomain": true,
+  "source": "Sanskrit text public domain (Shukla Yajur Veda, c. 700 BCE). English translations are original paraphrases by the Divya Granth project, not derived from any copyrighted modern translation.",
+  "coverColor": "#0c4a6e",
+  "audio": [],
+  "chapters": [
+    {
+      "id": "isha-1",
+      "bookId": "isha-upanishad",
+      "number": 1,
+      "title": "The Hymn",
+      "sanskritTitle": "मन्त्राः",
+      "verses": [
+        {
+          "number": 1,
+          "sanskrit": "ॐ ईशा वास्यमिदं सर्वं यत्किञ्च जगत्यां जगत्।\nतेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद्धनम्॥",
+          "transliteration": "oṃ īśā vāsyam idaṃ sarvaṃ yat kiñca jagatyāṃ jagat.\ntena tyaktena bhuñjīthā mā gṛdhaḥ kasyasvid dhanam.",
+          "translations": {
+            "en": "All this — whatever moves in this moving world — is enveloped by the Lord. Find your enjoyment in renunciation; do not covet what belongs to anyone."
+          }
+        },
+        {
+          "number": 2,
+          "sanskrit": "कुर्वन्नेवेह कर्माणि जिजीविषेच्छतꣳ समाः।\nएवं त्वयि नान्यथेतोऽस्ति न कर्म लिप्यते नरे॥",
+          "transliteration": "kurvann eveha karmāṇi jijīviṣec chataṃ samāḥ.\nevaṃ tvayi nānyatheto'sti na karma lipyate nare.",
+          "translations": {
+            "en": "Performing actions in this world, one should wish to live a hundred years. There is no other way for you; action does not bind a person who lives like this."
+          }
+        },
+        {
+          "number": 3,
+          "sanskrit": "असुर्या नाम ते लोका अन्धेन तमसाऽऽवृताः।\nताꣳस्ते प्रेत्याभिगच्छन्ति ये के चात्महनो जनाः॥",
+          "transliteration": "asuryā nāma te lokā andhena tamasā''vṛtāḥ.\ntāṃs te pretyābhigacchanti ye ke cātmahano janāḥ.",
+          "translations": {
+            "en": "There are worlds called demonic, wrapped in blinding darkness. Those who slay the Self go there after death."
+          }
+        },
+        {
+          "number": 4,
+          "sanskrit": "अनेजदेकं मनसो जवीयो नैनद्देवा आप्नुवन्पूर्वमर्षत्।\nतद्धावतोऽन्यानत्येति तिष्ठत्तस्मिन्नपो मातरिश्वा दधाति॥",
+          "transliteration": "anejad ekaṃ manaso javīyo nainad devā āpnuvan pūrvam arṣat.\ntad dhāvato'nyān atyeti tiṣṭhat tasminn apo mātariśvā dadhāti.",
+          "translations": {
+            "en": "Unmoving, one, swifter than the mind — the senses cannot reach it; it has gone before. Standing still, it outruns all who run. In it the cosmic wind sets the waters in motion."
+          }
+        },
+        {
+          "number": 5,
+          "sanskrit": "तदेजति तन्नैजति तद्दूरे तद्वन्तिके।\nतदन्तरस्य सर्वस्य तदु सर्वस्यास्य बाह्यतः॥",
+          "transliteration": "tad ejati tan naijati tad dūre tad v antike.\ntad antarasya sarvasya tad u sarvasyāsya bāhyataḥ.",
+          "translations": {
+            "en": "It moves and it does not move. It is far and it is near. It is within all this, and it is outside all this."
+          }
+        },
+        {
+          "number": 6,
+          "sanskrit": "यस्तु सर्वाणि भूतान्यात्मन्येवानुपश्यति।\nसर्वभूतेषु चात्मानं ततो न विजुगुप्सते॥",
+          "transliteration": "yas tu sarvāṇi bhūtāny ātmany evānupaśyati.\nsarvabhūteṣu cātmānaṃ tato na vijugupsate.",
+          "translations": {
+            "en": "One who sees all beings in the Self alone, and the Self in all beings, no longer recoils from anything."
+          }
+        },
+        {
+          "number": 7,
+          "sanskrit": "यस्मिन्सर्वाणि भूतान्यात्मैवाभूद्विजानतः।\nतत्र को मोहः कः शोक एकत्वमनुपश्यतः॥",
+          "transliteration": "yasmin sarvāṇi bhūtāny ātmaivābhūd vijānataḥ.\ntatra ko mohaḥ kaḥ śoka ekatvam anupaśyataḥ.",
+          "translations": {
+            "en": "When all beings have become the Self for the one who knows — what delusion, what sorrow can there be for one who sees the unity?"
+          }
+        },
+        {
+          "number": 8,
+          "sanskrit": "स पर्यगाच्छुक्रमकायमव्रणमस्नाविरꣳ शुद्धमपापविद्धम्।\nकविर्मनीषी परिभूः स्वयम्भूर्याथातथ्यतोऽर्थान्व्यदधाच्छाश्वतीभ्यः समाभ्यः॥",
+          "transliteration": "sa paryagāc chukram akāyam avraṇam asnāviraṃ śuddham apāpaviddham.\nkavir manīṣī paribhūḥ svayambhūr yāthātathyato'rthān vyadadhāc chāśvatībhyaḥ samābhyaḥ.",
+          "translations": {
+            "en": "He has reached out and pervaded everything — bright, bodiless, without wound, without sinews, pure, untouched by evil. The seer, the thinker, all-pervading, self-existent, has rightly distributed all things for endless years."
+          }
+        },
+        {
+          "number": 9,
+          "sanskrit": "अन्धं तमः प्रविशन्ति येऽविद्यामुपासते।\nततो भूय इव ते तमो य उ विद्यायाꣳ रताः॥",
+          "transliteration": "andhaṃ tamaḥ praviśanti ye'vidyām upāsate.\ntato bhūya iva te tamo ya u vidyāyāṃ ratāḥ.",
+          "translations": {
+            "en": "Into blinding darkness enter those who worship ignorance; into still greater darkness, those who delight in knowledge alone."
+          }
+        },
+        {
+          "number": 10,
+          "sanskrit": "अन्यदेवाहुर्विद्ययाऽन्यदाहुरविद्यया।\nइति शुश्रुम धीराणां ये नस्तद्विचचक्षिरे॥",
+          "transliteration": "anyad evāhur vidyayā'nyad āhur avidyayā.\niti śuśruma dhīrāṇāṃ ye nas tad vicacakṣire.",
+          "translations": {
+            "en": "Different, they say, is the result of knowledge; different, they say, the result of ignorance. So we have heard from the wise who explained it to us."
+          }
+        },
+        {
+          "number": 11,
+          "sanskrit": "विद्यां चाविद्यां च यस्तद्वेदोभयꣳ सह।\nअविद्यया मृत्युं तीर्त्वा विद्ययाऽमृतमश्नुते॥",
+          "transliteration": "vidyāṃ cāvidyāṃ ca yas tad vedobhayaṃ saha.\navidyayā mṛtyuṃ tīrtvā vidyayā'mṛtam aśnute.",
+          "translations": {
+            "en": "One who knows both knowledge and ignorance together — by ignorance crosses over death, and by knowledge attains immortality."
+          }
+        },
+        {
+          "number": 12,
+          "sanskrit": "अन्धं तमः प्रविशन्ति येऽसम्भूतिमुपासते।\nततो भूय इव ते तमो य उ सम्भूत्याꣳ रताः॥",
+          "transliteration": "andhaṃ tamaḥ praviśanti ye'sambhūtim upāsate.\ntato bhūya iva te tamo ya u sambhūtyāṃ ratāḥ.",
+          "translations": {
+            "en": "Into blinding darkness enter those who worship the unmanifest; into still greater darkness, those who delight in the manifest alone."
+          }
+        },
+        {
+          "number": 13,
+          "sanskrit": "अन्यदेवाहुः सम्भवादन्यदाहुरसम्भवात्।\nइति शुश्रुम धीराणां ये नस्तद्विचचक्षिरे॥",
+          "transliteration": "anyad evāhuḥ sambhavād anyad āhur asambhavāt.\niti śuśruma dhīrāṇāṃ ye nas tad vicacakṣire.",
+          "translations": {
+            "en": "Different, they say, is the result of the manifest; different, the result of the unmanifest. So we have heard from the wise who explained it to us."
+          }
+        },
+        {
+          "number": 14,
+          "sanskrit": "सम्भूतिं च विनाशं च यस्तद्वेदोभयꣳ सह।\nविनाशेन मृत्युं तीर्त्वा सम्भूत्याऽमृतमश्नुते॥",
+          "transliteration": "sambhūtiṃ ca vināśaṃ ca yas tad vedobhayaṃ saha.\nvināśena mṛtyuṃ tīrtvā sambhūtyā'mṛtam aśnute.",
+          "translations": {
+            "en": "One who knows both the manifest and the perishable together — by the perishable crosses over death, and by the manifest attains immortality."
+          }
+        },
+        {
+          "number": 15,
+          "sanskrit": "हिरण्मयेन पात्रेण सत्यस्यापिहितं मुखम्।\nतत्त्वं पूषन्नपावृणु सत्यधर्माय दृष्टये॥",
+          "transliteration": "hiraṇmayena pātreṇa satyasyāpihitaṃ mukham.\ntat tvaṃ pūṣann apāvṛṇu satyadharmāya dṛṣṭaye.",
+          "translations": {
+            "en": "The face of truth is hidden by a golden disk. Uncover it, O Pushan, that I — devoted to truth — may see it."
+          }
+        },
+        {
+          "number": 16,
+          "sanskrit": "पूषन्नेकर्षे यम सूर्य प्राजापत्य व्यूह रश्मीन्समूह तेजः।\nयत्ते रूपं कल्याणतमं तत्ते पश्यामि योऽसावसौ पुरुषः सोऽहमस्मि॥",
+          "transliteration": "pūṣann ekarṣe yama sūrya prājāpatya vyūha raśmīn samūha tejaḥ.\nyat te rūpaṃ kalyāṇatamaṃ tat te paśyāmi yo'sāv asau puruṣaḥ so'ham asmi.",
+          "translations": {
+            "en": "O Pushan, sole seer, controller, sun, son of Prajapati — gather your rays, withdraw your blazing light. That most blessed form of yours, that I may see. The Person who dwells there — I am that."
+          }
+        },
+        {
+          "number": 17,
+          "sanskrit": "वायुरनिलममृतमथेदं भस्मान्तꣳ शरीरम्।\nॐ क्रतो स्मर कृतꣳ स्मर क्रतो स्मर कृतꣳ स्मर॥",
+          "transliteration": "vāyur anilam amṛtam athedaṃ bhasmāntaṃ śarīram.\noṃ krato smara kṛtaṃ smara krato smara kṛtaṃ smara.",
+          "translations": {
+            "en": "Let this breath return to the immortal wind; let this body end in ashes. Om — O mind, remember; remember what was done. O mind, remember; remember what was done."
+          }
+        },
+        {
+          "number": 18,
+          "sanskrit": "अग्ने नय सुपथा राये अस्मान्विश्वानि देव वयुनानि विद्वान्।\nयुयोध्यस्मज्जुहुराणमेनो भूयिष्ठां ते नमउक्तिं विधेम॥",
+          "transliteration": "agne naya supathā rāye asmān viśvāni deva vayunāni vidvān.\nyuyodhy asmaj juhurāṇam eno bhūyiṣṭhāṃ te nama-uktiṃ vidhema.",
+          "translations": {
+            "en": "O Agni, lead us by the good path to prosperity, O God who knows all our deeds. Take from us our deceitful sins. To you we offer abundant words of homage."
+          }
+        }
+      ]
+    }
+  ]
+}

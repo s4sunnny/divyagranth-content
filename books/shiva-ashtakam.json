@@ -1,0 +1,91 @@
+{
+  "id": "shiva-ashtakam",
+  "title": "Shiva Ashtakam",
+  "sanskritTitle": "शिवाष्टकम्",
+  "deityId": "shiva",
+  "category": "stotra",
+  "description": "Eight verses in praise of Lord Shiva. A beloved Shaiva hymn recited at dawn.",
+  "language": ["sa", "en"],
+  "chapterCount": 1,
+  "verseCount": 8,
+  "isLocal": false,
+  "isPublicDomain": true,
+  "source": "Traditional Sanskrit, public domain. English translations are original paraphrases by the Divya Granth project.",
+  "coverColor": "#7c3aed",
+  "audio": [],
+  "chapters": [
+    {
+      "id": "shiva-ashtakam-1",
+      "bookId": "shiva-ashtakam",
+      "number": 1,
+      "title": "Hymn",
+      "sanskritTitle": "स्तोत्रम्",
+      "verses": [
+        {
+          "number": 1,
+          "sanskrit": "प्रभुं प्राणनाथं विभुं विश्वनाथं जगन्नाथनाथं सदानन्दभाजम्।\nभवद्भव्यभूतेश्वरं भूतनाथं शिवं शङ्करं शम्भुमीशानमीडे॥",
+          "transliteration": "prabhuṃ prāṇanāthaṃ vibhuṃ viśvanāthaṃ jagannātha-nāthaṃ sadānanda-bhājam.\nbhavad-bhavya-bhūteśvaraṃ bhūta-nāthaṃ śivaṃ śaṅkaraṃ śambhum īśānam īḍe.",
+          "translations": {
+            "en": "I praise the Lord, master of life-breath, all-pervading lord of the universe, master of the master of the world, ever drinking bliss; lord of all that has been, will be, and is, lord of beings — Shiva, Shankara, Shambhu, Ishana."
+          }
+        },
+        {
+          "number": 2,
+          "sanskrit": "गले रुण्डमालं तनौ सर्पजालं महाकालकालं गणेशादिपालम्।\nजटाजूटगङ्गोत्तरङ्गैर्विशालं शिवं शङ्करं शम्भुमीशानमीडे॥",
+          "transliteration": "gale ruṇḍa-mālaṃ tanau sarpa-jālaṃ mahākāla-kālaṃ gaṇeśādi-pālam.\njaṭā-jūṭa-gaṅgottaraṅgair viśālaṃ śivaṃ śaṅkaraṃ śambhum īśānam īḍe.",
+          "translations": {
+            "en": "With a garland of skulls on his neck, a net of serpents on his body — death even of Mahakala, protector of Ganesha and others; vast with the rolling waves of the Ganga in his matted hair — Shiva, Shankara, Shambhu, Ishana, I praise."
+          }
+        },
+        {
+          "number": 3,
+          "sanskrit": "मुदामाकरं मण्डनं मण्डयन्तं महामण्डलं भस्मभूषाधरं तम्।\nअनादिह्यपारं महामोहहारं शिवं शङ्करं शम्भुमीशानमीडे॥",
+          "transliteration": "mudām ākaraṃ maṇḍanaṃ maṇḍayantaṃ mahā-maṇḍalaṃ bhasma-bhūṣādharaṃ tam.\nanādi hy apāraṃ mahā-moha-hāraṃ śivaṃ śaṅkaraṃ śambhum īśānam īḍe.",
+          "translations": {
+            "en": "Source of joy, ornament adorning the great cosmic circle, wearing ash as his ornament — beginningless, boundless, dispeller of great delusion — Shiva, Shankara, Shambhu, Ishana, I praise."
+          }
+        },
+        {
+          "number": 4,
+          "sanskrit": "वटाधोनिवासं महाट्टाट्टहासं महापापनाशं सदा सुप्रकाशम्।\nगिरीशं गणेशं सुरेशं महेशं शिवं शङ्करं शम्भुमीशानमीडे॥",
+          "transliteration": "vaṭādho-nivāsaṃ mahāṭṭāṭṭa-hāsaṃ mahā-pāpa-nāśaṃ sadā suprakāśam.\ngirīśaṃ gaṇeśaṃ sureśaṃ maheśaṃ śivaṃ śaṅkaraṃ śambhum īśānam īḍe.",
+          "translations": {
+            "en": "Dwelling beneath the banyan, with great roaring laughter, destroyer of great sin, ever radiant; lord of mountains, lord of the ganas, lord of the gods, the great lord — Shiva, Shankara, Shambhu, Ishana, I praise."
+          }
+        },
+        {
+          "number": 5,
+          "sanskrit": "गिरीन्द्रात्मजासङ्गृहीतार्धदेहं गिरौ संस्थितं सर्वदाऽपन्नगेहम्।\nपरब्रह्मब्रह्मादिभिर्वन्द्यमानं शिवं शङ्करं शम्भुमीशानमीडे॥",
+          "transliteration": "girīndrātmajā-saṅgṛhītārdha-dehaṃ girau saṃsthitaṃ sarvadā'pannagehaṃ.\nparabrahma-brahmādibhir vandyamānaṃ śivaṃ śaṅkaraṃ śambhum īśānam īḍe.",
+          "translations": {
+            "en": "Whose half-body is held by the daughter of the mountain-king, dwelling on the mountain, his home for refuge always; worshipped by Brahma and the supreme Brahman itself — Shiva, Shankara, Shambhu, Ishana, I praise."
+          }
+        },
+        {
+          "number": 6,
+          "sanskrit": "कपालं त्रिशूलं कराभ्यां दधानं पदाम्भोजनम्राय कामं ददानम्।\nबलीवर्दयानं सुराणां प्रधानं शिवं शङ्करं शम्भुमीशानमीडे॥",
+          "transliteration": "kapālaṃ triśūlaṃ karābhyāṃ dadhānaṃ padāmbhoja-namrāya kāmaṃ dadānam.\nbalīvarda-yānaṃ surāṇāṃ pradhānaṃ śivaṃ śaṅkaraṃ śambhum īśānam īḍe.",
+          "translations": {
+            "en": "Holding skull and trident in his hands, granting all desires to those who bow at his lotus feet; riding on the bull, foremost among the gods — Shiva, Shankara, Shambhu, Ishana, I praise."
+          }
+        },
+        {
+          "number": 7,
+          "sanskrit": "शरच्चन्द्रगात्रं गणानन्दपात्रं त्रिनेत्रं पवित्रं धनेशस्य मित्रम्।\nअपर्णाकलत्रं चरित्रं विचित्रं शिवं शङ्करं शम्भुमीशानमीडे॥",
+          "transliteration": "śarac-candra-gātraṃ gaṇānanda-pātraṃ trinetraṃ pavitraṃ dhaneśasya mitram.\naparṇā-kalatraṃ caritraṃ vicitraṃ śivaṃ śaṅkaraṃ śambhum īśānam īḍe.",
+          "translations": {
+            "en": "His body bright as the autumn moon, vessel of the ganas' joy, three-eyed, pure, friend of Kubera; husband of Aparna, of wondrous deeds — Shiva, Shankara, Shambhu, Ishana, I praise."
+          }
+        },
+        {
+          "number": 8,
+          "sanskrit": "हरं सर्पहारं चिताभूविहारं भवं वेदसारं सदा निर्विकारम्।\nश्मशाने वसन्तं मनोजं दहन्तं शिवं शङ्करं शम्भुमीशानमीडे॥",
+          "transliteration": "haraṃ sarpa-hāraṃ citā-bhū-vihāraṃ bhavaṃ veda-sāraṃ sadā nirvikāram.\nśmaśāne vasantaṃ manojaṃ dahantaṃ śivaṃ śaṅkaraṃ śambhum īśānam īḍe.",
+          "translations": {
+            "en": "Hara, wearing serpents as garlands, who roams the cremation ground; existence itself, essence of the Vedas, ever changeless; dwelling in the burning ground, who burned the god of love — Shiva, Shankara, Shambhu, Ishana, I praise."
+          }
+        }
+      ]
+    }
+  ]
+}

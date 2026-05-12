@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-05-01T00:00:00Z",
+  "_note": "Replace url and thumbnailUrl with your actual Cloudflare R2 public URLs. Each entry should point at one short (<=90s) MP4. See CONTENT_LICENSING.md before adding any third-party recording.",
+  "reels": [
+    {
+      "id": "2026-05-01-shiva-aarti-morning",
+      "title": "Morning Shiva Aarti",
+      "description": "Brief morning aarti at a Shiva temple",
+      "deityId": "shiva",
+      "tags": ["aarti", "morning", "om-namah-shivaya"],
+      "url": "https://your-bucket.r2.dev/reels/2026-05-01-shiva-aarti-morning.mp4",
+      "thumbnailUrl": "https://your-bucket.r2.dev/reels/2026-05-01-shiva-aarti-morning.jpg",
+      "durationSeconds": 58,
+      "publishedAt": "2026-05-01",
+      "creator": "Public domain / Wikimedia Commons",
+      "license": "CC0",
+      "language": "hi"
+    },
+    {
+      "id": "2026-04-30-krishna-flute-bhajan",
+      "title": "Krishna Flute — Vrindavan",
+      "description": "Short flute bhajan dedicated to Krishna",
+      "deityId": "krishna",
+      "tags": ["bhajan", "flute", "vrindavan"],
+      "url": "https://your-bucket.r2.dev/reels/2026-04-30-krishna-flute-bhajan.mp4",
+      "thumbnailUrl": "https://your-bucket.r2.dev/reels/2026-04-30-krishna-flute-bhajan.jpg",
+      "durationSeconds": 72,
+      "publishedAt": "2026-04-30",
+      "creator": "Original recording",
+      "license": "OWNED",
+      "language": "sa"
+    },
+    {
+      "id": "2026-04-29-hanuman-chalisa-clip",
+      "title": "Hanuman Chalisa — Opening Doha",
+      "description": "First doha of the Hanuman Chalisa, sung slowly",
+      "deityId": "hanuman",
+      "tags": ["chalisa", "tulsidas", "doha"],
+      "url": "https://your-bucket.r2.dev/reels/2026-04-29-hanuman-chalisa-clip.mp4",
+      "thumbnailUrl": "https://your-bucket.r2.dev/reels/2026-04-29-hanuman-chalisa-clip.jpg",
+      "durationSeconds": 64,
+      "publishedAt": "2026-04-29",
+      "creator": "Original recording",
+      "license": "OWNED",
+      "language": "hi"
+    },
+    {
+      "id": "2026-04-28-ganesh-vakratunda",
+      "title": "Vakratunda Mahakaya",
+      "description": "The classic Ganesha invocation, recited three times",
+      "deityId": "ganesha",
+      "tags": ["mantra", "invocation", "vakratunda"],
+      "url": "https://your-bucket.r2.dev/reels/2026-04-28-ganesh-vakratunda.mp4",
+      "thumbnailUrl": "https://your-bucket.r2.dev/reels/2026-04-28-ganesh-vakratunda.jpg",
+      "durationSeconds": 38,
+      "publishedAt": "2026-04-28",
+      "creator": "Original recording",
+      "license": "OWNED",
+      "language": "sa"
+    },
+    {
+      "id": "2026-04-27-devi-mahishasura",
+      "title": "Mahishasura Mardini",
+      "description": "Short verse from the Devi stuti",
+      "deityId": "devi",
+      "tags": ["devi", "durga", "mardini"],
+      "url": "https://your-bucket.r2.dev/reels/2026-04-27-devi-mahishasura.mp4",
+      "thumbnailUrl": "https://your-bucket.r2.dev/reels/2026-04-27-devi-mahishasura.jpg",
+      "durationSeconds": 84,
+      "publishedAt": "2026-04-27",
+      "creator": "Original recording",
+      "license": "OWNED",
+      "language": "sa"
+    },
+    {
+      "id": "2026-04-26-rama-sunset-bhajan",
+      "title": "Sri Rama Jaya Rama",
+      "description": "The Tarakamantra, repeated softly at sunset",
+      "deityId": "rama",
+      "tags": ["bhajan", "ram-naam", "sunset"],
+      "url": "https://your-bucket.r2.dev/reels/2026-04-26-rama-sunset-bhajan.mp4",
+      "thumbnailUrl": "https://your-bucket.r2.dev/reels/2026-04-26-rama-sunset-bhajan.jpg",
+      "durationSeconds": 56,
+      "publishedAt": "2026-04-26",
+      "creator": "Original recording",
+      "license": "OWNED",
+      "language": "sa"
+    }
+  ]
+}

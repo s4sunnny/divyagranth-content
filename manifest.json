@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "generatedAt": "2026-05-01T00:00:00Z",
+  "books": [
+    {
+      "id": "isha-upanishad",
+      "title": "Isha Upanishad",
+      "sanskritTitle": "ईशोपनिषद्",
+      "deityId": "general",
+      "category": "upanishad",
+      "description": "One of the shortest and most condensed of the principal Upanishads. 18 verses on the all-pervading nature of the Self.",
+      "language": ["sa", "en"],
+      "chapterCount": 1,
+      "verseCount": 18,
+      "isLocal": false,
+      "isPublicDomain": true,
+      "source": "Public domain Sanskrit. English: original paraphrase by the Divya Granth project.",
+      "coverColor": "#0c4a6e",
+      "audio": []
+    },
+    {
+      "id": "shiva-ashtakam",
+      "title": "Shiva Ashtakam",
+      "sanskritTitle": "शिवाष्टकम्",
+      "deityId": "shiva",
+      "category": "stotra",
+      "description": "Eight verses in praise of Lord Shiva. A beloved Shaiva hymn recited at dawn.",
+      "language": ["sa", "en"],
+      "chapterCount": 1,
+      "verseCount": 8,
+      "isLocal": false,
+      "isPublicDomain": true,
+      "source": "Traditional, public domain. Paraphrase by the Divya Granth project.",
+      "coverColor": "#7c3aed",
+      "audio": []
+    }
+  ]
+}
